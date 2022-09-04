@@ -1,4 +1,4 @@
-#  <img src="C:\Users\Sun\Pictures\Saved Pictures\微信头像.jpg" alt="微信头像" style="zoom:4%;" />Hi there, this is Sun Huan👋
+#  Hi there, this is Sun Huan👋
 
 ### 📖 About me
 
